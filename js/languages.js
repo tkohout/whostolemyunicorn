@@ -227,7 +227,7 @@ $(function(){
       {
         "abbr": "ES",
         "name": "Galician",
-        "sentence": "Quen roubou o meu unicornio?
+        "sentence": "Quen roubou o meu unicornio?"
       },
       {
         "abbr": "IN",
