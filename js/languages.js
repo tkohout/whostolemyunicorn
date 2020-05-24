@@ -212,80 +212,80 @@ $(function(){
       {
         "abbr": "LK",
         "name": "Tamil",
-        "sentence": "Yaaru ennude unicorn thirundittan"
+        "sentence": "Yaaru ennude unicorn thirundittan?"
       },
       {
         "abbr": "PG",
         "name": "Tok Pisin",
-        "sentence": "Husait stilim unicorn blo mi"
+        "sentence": "Husait stilim unicorn blo mi?"
       },
       {
         "abbr": "IN",
         "name": "Marathi",
-        "sentence": "Maza unicorn koni chori kela"
+        "sentence": "Maza unicorn koni chori kela?"
       },
       {
         "abbr": "ES",
         "name": "Galician",
-        "sentence": "Quen roubou o meu unicornio"
+        "sentence": "Quen roubou o meu unicornio?
       },
       {
         "abbr": "IN",
         "name": "Punjabi",
-        "sentence": "Kauna mere unicorn cori kida"
+        "sentence": "Kauna mere unicorn cori kida?"
       },
       {
         "abbr": "FR",
         "name": "Corsican",
-        "sentence": "Qual'hè chì hà arrubatu u me unicorru"
+        "sentence": "Qual'hè chì hà arrubatu u me unicorru?"
       },
       {
         "abbr": "IN",
         "name": "Kannada",
-        "sentence": "Yaaru nanna unicorn kaddidare"
+        "sentence": "Yaaru nanna unicorn kaddidare?"
       },
       {
         "abbr": "IR",
         "name": "Farsi",
-        "sentence": "كى تك شاخ من رو دزديده؟ (Ki tak shoche manu dozdyde)"
+        "sentence": "كى تك شاخ من رو دزديده؟ (Ki tak shoche manu dozdyde)?"
       },
       {
         "abbr": "IN",
         "name": "Coorgi",
-        "sentence": "Daaru naada unicorn kaddiyadu"
+        "sentence": "Daaru naada unicorn kaddiyadu?"
       },{
         "abbr": "ES",
         "name": "Bable",
-        "sentence": "Quien robó el mio unicorniu"
+        "sentence": "Quien robó el mio unicorniu?"
       },
       {
         "abbr": "IN",
         "name": "Kashmir",
-        "sentence": "Meyun unicorn kelm chun chur karith"
+        "sentence": "Meyun unicorn kelm chun chur karith?"
       },{
         "abbr": "AL",
         "name": "Albanian",
-        "sentence": "Kush ma ka vjell kalin me stup"
+        "sentence": "Kush ma ka vjell kalin me stup?"
       },
       {
         "abbr": "ES",
         "name": "Basque",
-        "sentence": "Nork lapurtu zuen nire adarbakarra"
+        "sentence": "Nork lapurtu zuen nire adarbakarra?"
       },
       {
         "abbr": "IN",
         "name": "Tulu",
-        "sentence": "Err yenna unicorn kannoni"
+        "sentence": "Err yenna unicorn kannoni?"
       },
       {
         "abbr": "BG",
         "name": "Bulgarian",
-        "sentence": "кой ми открадна еднорока"
+        "sentence": "кой ми открадна еднорока?"
       },
       {
         "abbr": "_Wales",
         "name": "Welsh",
-        "sentence": "Pwy dwyn fy unicorn"
+        "sentence": "Pwy dwyn fy unicorn?"
       },
       {
         "abbr": "IN",
@@ -295,17 +295,33 @@ $(function(){
       {
         "abbr": "LU",
         "name": "Luxembourgish",
-        "sentence": "Du hues main unicorne geklaut"
+        "sentence": "Du hues main unicorne geklaut?"
       },
      {
         "abbr": "PE",
         "name": "Quechua",
-        "sentence": "Pitaj suwasha unicorniyuta"
+        "sentence": "Pitaj suwasha unicorniyuta?"
       },
       {
         "abbr": "ES",
         "name": "Catalan",
-        "sentence": "Qui va robar el meu unicorni"
+        "sentence": "Qui va robar el meu unicorni?"
+      },
+      {
+        "abbr": "ZA",
+        "name": "Xhosa",
+        "sentence": "Ngubani otyoyenye y unicorn yami?"
+      },
+      {
+        "abbr": "RO",
+        "name": "Romanian",
+        "sentence": "Cine mi-a furat unicornul?"
+      },
+
+      {
+        "abbr": "ZA",
+        "name": "Afrikaans",
+        "sentence": "Wie het my eenhoring gesteel"
       }
        
     ];
